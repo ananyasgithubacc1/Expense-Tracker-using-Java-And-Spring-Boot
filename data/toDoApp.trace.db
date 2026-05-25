@@ -1,0 +1,27 @@
+2026-05-25 19:56:48.144417+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:29:32.908021+05:30 jdbc[24]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:35:01.111639+05:30 jdbc[24]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:35:25.291820+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:35:25.497160+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:36:00.869272+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:36:01.061394+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:42:03.179249+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
+2026-05-25 21:42:03.359641+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EXPENSE" not found (this database is empty); SQL statement:
+select e1_0.id,e1_0.amount,e1_0.category,e1_0.date,e1_0.description from expense e1_0 [42104-240]
