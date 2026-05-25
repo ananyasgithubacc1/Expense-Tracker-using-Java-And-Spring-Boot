@@ -4,12 +4,13 @@ This is a basic full-stack expense tracker application made using Spring Boot an
 Users can add expenses through the frontend interface and view all saved expenses instantly without refreshing the page.
 
 Tech Stack
-Java 21
-Spring Boot
-Spring Web
-Spring Data JPA (Hibernate)
-H2 Database
+Java 21,
+Spring Boot,
+Spring Web,
+Spring Data JPA (Hibernate),
+H2 Database,
 HTML, CSS, JavaScript (Fetch API)
+
 Features
 Add new expenses and store them in the database
 Fetch and display all saved expenses
